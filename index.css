@@ -1,0 +1,51 @@
+
+.Intro {
+    text-align: center;
+    margin-top: 200px;
+    color:rgb(255, 255, 255);
+    font-family: roboto 700;
+    
+}
+.contact-btn{
+    border-radius: 5px;
+    background-color: rgb(240, 177, 4);
+    padding: 20px;
+    font-family:roboto, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border: none;
+
+}
+.aboutMe-grid{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    font-family: roboto, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 40px;
+    background-color: rgb(223, 234, 209);
+    align-items:center ;
+    padding-top: 30px;
+    
+}
+
+.skill-grid{
+    
+    font-size: 40px;
+    background-color: rgb(223, 234, 209);
+    align-items: center;
+    justify-content: center;
+    padding-left: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+
+
+.skills{
+    text-align: center;
+    font-size: 40px;
+}
+
+label{
+    margin-top:20px;
+   
+}
